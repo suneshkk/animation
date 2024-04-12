@@ -1,0 +1,40 @@
+body {
+    margin: 40px;
+    ;
+    font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, Geneva, Verdana, sans-serif;
+
+}
+
+.img {
+    filter: drop-shadow(#676a6c 1rem 1rem 10px);
+
+        width: 150px;
+    border: 3px solid #003049;
+    border-radius: 10px;
+
+}
+
+.border-blue {
+    border: 2px dotted rgb(10, 208, 231);
+
+
+}
+
+.card {
+  
+    box-shadow: 0 15px 10px 0 rgba(0, 0, 0, 0.2), 0 5px 30px 0 rgba(0, 0, 0, 0.19);
+display: flex;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    color: #2b2839;
+    border-radius: 10px;
+    background-color: #cbeef3;
+    border: 5px solid #1EC4DA;
+   
+   color:#edf6f9;
+   text-shadow: 2px 2px 4px #000000;
+}
